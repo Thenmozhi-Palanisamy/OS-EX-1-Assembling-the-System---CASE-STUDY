@@ -1,5 +1,5 @@
 
-Ex:Assembling the system
+Ex 1:Assembling the system
 
 ## AIM:
 To assemble the system.
