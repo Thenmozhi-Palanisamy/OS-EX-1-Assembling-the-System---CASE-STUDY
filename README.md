@@ -1,6 +1,5 @@
 
- OS-EX-1-A![1os](https://github.com/Thenmozhi-Palanisamy/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/95198708/cd7c818a-7f15-4458-96d0-5d4d652746b4)
-ssembling-the-System---CASE-STUDY
+Ex:Assembling the system
 
 ## AIM:
 To assemble the system.
