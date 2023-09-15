@@ -24,7 +24,9 @@ To assemble the system.
 UAlign the CPU with the socket, ensuring the notches match.
 *Gently place the CPU into the socket without applying any force.
 
+
 ![image](https://github.com/Thenmozhi-Palanisamy/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/95198708/46c39f46-89cf-41a7-91ce-93326abe4afc)
+
 
 3.Install the CPU Cooler: Attach the CPU cooler according to the manufacturer's instructions.
 
