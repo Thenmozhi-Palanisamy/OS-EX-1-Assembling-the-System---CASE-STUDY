@@ -1,4 +1,4 @@
-![image](https://github.com/Thenmozhi-Palanisamy/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/95198708/9985021a-9351-4100-bb4a-6c778f0c99ef)# OS-EX-1-Assembling-the-System---CASE-STUDY
+ OS-EX-1-Assembling-the-System---CASE-STUDY
 
 AIM:
 To assemble the system.
